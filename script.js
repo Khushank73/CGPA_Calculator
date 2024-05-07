@@ -6,7 +6,7 @@ function cal() {
   let c5 = 24.5;
   let c6 = 23;
   let c7 = 18.5;
-  let c8 = 0;
+  let c8 = 15;
 
   let csum = c1 + c2 + c3 + c4 + c5 + c6 + c7 + c8;
 
